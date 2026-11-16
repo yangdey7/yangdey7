@@ -1,6 +1,6 @@
 # Hi there, I'm Tshering Yangden! 👋
 
-🎓 Computer Science student specializing in **Artificial Intelligence and Data Science**, with an interest in Cybersecurity.
+🎓 Computer Science student specializing in **Artificial Intelligence and Data Science**, with a minor in Cybersecurity.
 
 I'm passionate about using technology to solve real-world problems and building intelligent, practical solutions. I enjoy exploring emerging technologies, working on challenging projects, and continuously expanding my technical skills.
 
